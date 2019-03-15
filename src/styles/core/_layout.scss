@@ -1,0 +1,9 @@
+html, body {
+  font-family: $font-family-base;
+  font-size: $font-size-body;
+}
+
+.container {
+  max-width: $site-width;
+  width: auto;
+}
